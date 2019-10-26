@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "美好时光 电科17-2 18刘乾",
+  "usingComponents": {
+    "txv-video": "plugin://tencentvideo/video"
+  }
+}
